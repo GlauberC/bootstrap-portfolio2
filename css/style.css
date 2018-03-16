@@ -778,13 +778,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Call To Action Section
 --------------------------------*/
+.skills-set-title{
+  margin-top: 20px;
+}
 #skills {
   padding: 60px 0;
 }
 
 #skills .progress {
-  height: 35px;
-  margin-bottom: 10px;
+  height: 20px;
+  margin-bottom: 5px;
 }
 
 #skills .progress .skill {
@@ -799,6 +802,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   float: right;
   font-style: normal;
   margin: 0 20px 0 0;
+  
 }
 
 #skills .progress-bar {
